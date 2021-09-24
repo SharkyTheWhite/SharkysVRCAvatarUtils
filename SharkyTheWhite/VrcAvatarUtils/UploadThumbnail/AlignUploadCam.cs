@@ -3,8 +3,7 @@ using UnityEngine;
 using UnityEngine.Animations;
 using UnityEngine.UI;
 
-// ReSharper disable once CheckNamespace
-namespace SharkyTheWhite.VrcAvatarUtils.UploadCamPicture
+namespace SharkyTheWhite.VrcAvatarUtils.UploadThumbnail
 {
     /// <summary>
     /// This Component is used on a Plane object (Unity build-in). The plane should be assigned a Thumbnail Image
