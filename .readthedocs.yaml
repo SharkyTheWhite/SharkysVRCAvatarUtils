@@ -1,0 +1,6 @@
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html
+version: 2
+
+mkdocs:
+  configuration: Documentation~/mkdocs.yml
+
