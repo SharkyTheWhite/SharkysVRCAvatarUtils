@@ -1,0 +1,24 @@
+{
+  "name": "eu.sharkythewhite.unity.vrc-avatar-utils",
+  "version": "0.0.1",
+  "displayName": "Sharky's VRC Avatar Utils",
+  "description": "A growing collection of tools to help in creating, editing and uploading Avatars for VRChat.",
+  "unity": "2019.4",
+  "unityRelease": "29f1",
+  "hideInEditor": false,
+  "keywords": [
+    "VRChat",
+    "SharkyTheWhite",
+    "Avatar"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Sharky The White",
+    "email": "info@sharkythewhite.eu",
+    "url": "https://www.sharkythewhite.eu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SharkyTheWhite/SharkysVRCAvatarUtils.git"
+  }
+}
