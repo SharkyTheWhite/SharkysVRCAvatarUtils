@@ -1,6 +1,6 @@
-﻿## Using a Picture as Thumbnail during Upload
+﻿# Using a Picture as Thumbnail during Upload
 
-### Summary
+## Summary
 
  1. Create a picture you want to use (e.g. VRC Photo, using an image editor, a drawing, ...)
  2. Add this to your Unity project
@@ -20,7 +20,7 @@ You can also use a square image (1:1 aspect) but then should also keep the plane
 The *Align Upload Camera* component will fit the camera to be fully covered by the image, 
 i.e. it will cut out the edges of the image to get the 4:3 thumbnail.
 
-### Detailed Workflow
+## Detailed Workflow
 
 First you need a picture. This can be a photo you snap while in VRChat, something you created in an image editor,
 a drawing, whatever you like. Make sure it has a decent resolution (ideally more than 256 by 192 pixels).

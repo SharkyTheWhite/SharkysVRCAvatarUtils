@@ -1,10 +1,10 @@
-﻿## Sharky's VRChat Avatar Utils
+﻿# Sharky's VRChat Avatar Utils
 
 This is a growing collection of tools to help in creating, editing and uploading Avatars for VRChat.
 
 > ⚠ **Project is in bring-up phase and not ready to use yet!** ❗
 
-### Installation
+## Installation
 
 You can install this Package using the Package Manager in Unity. 
 Follow their instructions on
@@ -12,9 +12,9 @@ Follow their instructions on
 
 Use this URL: `https://github.com/SharkyTheWhite/SharkysVRCAvatarUtils.git`
 
-### Features
+## Features
 
-#### Upload Thumbnail
+### Upload Thumbnail
 
 Do you want to create a nice Thumbnail for your Avatar but moving the VRCCam by hand is getting annoying?
 Here are some Tools to help you:
@@ -25,7 +25,7 @@ Here are some Tools to help you:
 
 ----
 
-### Questions, Issues, Suggestions, Updates
+## Questions, Issues, Suggestions, Updates
 
 You find this Package in a  [GitHub Repository](https://github.com/SharkyTheWhite/SharkysVRCAvatarUtils).
 

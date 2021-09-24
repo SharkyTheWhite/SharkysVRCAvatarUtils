@@ -6,3 +6,4 @@ docs_dir: "Documentation~"
 theme:
   name: readthedocs
   prev_next_buttons_location: none
+extra_css: [".extra.css"]
